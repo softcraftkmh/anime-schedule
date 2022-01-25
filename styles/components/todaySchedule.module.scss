@@ -8,19 +8,3 @@
 	background: #fff;
 	padding: 16px;
 }
-
-.title {
-	margin: 0;
-}
-
-.schedule {
-	&Container {
-		margin-top: 12px;
-	}
-	&Item {
-		display: flex;
-		justify-content: space-between;
-		border-bottom: 1px solid #eeeeee;
-		padding: 12px 0;
-	}
-}
